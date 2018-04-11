@@ -157,6 +157,15 @@ words.createOrReplaceTempView("fillwords");
 // COMMAND ----------
 
 // MAGIC %md
+// MAGIC ### 4. Tipp: Tabellen und Views auflisten
+
+// COMMAND ----------
+
+// MAGIC %sql show tables
+
+// COMMAND ----------
+
+// MAGIC %md
 // MAGIC ## 2. SQL Joins
 
 // COMMAND ----------
